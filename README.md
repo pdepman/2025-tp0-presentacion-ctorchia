@@ -17,3 +17,6 @@
 <h4>Llevo casi 20 años trabajando en infraestructura y pude implementar muchas mejoras tecnológicas en la empresa.</h4>
 <h4>Mis tareas actualmente están girando hacia los sistemas de información, por lo que deseo correrme un poco de la infraestructura para involucrarme de lleno a esa rama.</h4>
 
+## Estudios
+<h4>Realicé varios cursos relacionados a Desarrollo Web y me gustó mucho esa arista de la informática.</h4>
+<h4>Mi objetivo es obtener bases sólidas de conocimiento para complementarlas con experiencia y poder en un futuro aspirar a un cargo gerencial.</h4>
