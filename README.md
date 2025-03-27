@@ -11,5 +11,9 @@
 
 ## Personal
 <h4>Abandoné la carrera en 2008 para dedicarme full time a mi familia y al trabajo.</h4>
-
 <h4>Hoy en día con mis hijas ya grandes (21 y 18) y el apoyo de mi pareja de toda la vida, decidí cumplir este sueño pendiente de tener un título universitario en la UTN.</h4>
+
+## Laboral
+<h4>Llevo casi 20 años trabajando en infraestructura y pude implementar muchas mejoras tecnológicas en la empresa.</h4>
+<h4>Mis tareas actualmente están girando hacia los sistemas de información, por lo que deseo correrme un poco de la infraestructura para involucrarme de lleno a esa rama.</h4>
+
