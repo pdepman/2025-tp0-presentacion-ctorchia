@@ -1,6 +1,6 @@
 <img src="./assets/foto.webp" alt="Alt Text" width="150" height="150">
 
-<h3>Mi nombre es Cristian Torchia, </h3>
+<h3>Mi nombre es Cristian Torchia, Legajo: 111645-9 </h3>
 
 - Técnico en Electrónica
 - 45 Años
